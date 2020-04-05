@@ -1,0 +1,13 @@
+Confusion Matrix
+[[24 15]
+ [14 50]]
+Classification Report
+              precision    recall  f1-score   support
+
+        NRDR       0.63      0.62      0.62        39
+         RDR       0.77      0.78      0.78        64
+
+    accuracy                           0.72       103
+   macro avg       0.70      0.70      0.70       103
+weighted avg       0.72      0.72      0.72       103
+
