@@ -3,7 +3,9 @@
 	Diabetic Retinopathy Detection
 </h1>
 
-**_Updates done so far_**
+**_Poster_**: [Deep Learning based Diabetic Retinopathy Detection](https://drive.google.com/open?id=1MWiaWr59_-1_XmZdLE7F-9SmLLwITJ86)
+
+**_Results_**
 
 1) Input Pipeline
 2) Model Architecture
