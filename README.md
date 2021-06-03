@@ -1,4 +1,4 @@
-This project was conceived during the lab course work "Statistical Signal Processing/Deep Learning" at the University of Stuttgart. 
+This Project was conceived during the lab course work "Statistical Signal Processing/Deep Learning" at the University of Stuttgart. 
 <h1 align="center">
 	Diabetic Retinopathy Detection
 </h1>
